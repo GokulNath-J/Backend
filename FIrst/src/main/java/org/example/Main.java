@@ -5,5 +5,6 @@ public class Main {
 
 
         System.out.println("Hello this is github");
+        System.out.println("New Line Creaded in the github");
         }
     }
